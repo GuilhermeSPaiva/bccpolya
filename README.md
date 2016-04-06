@@ -13,7 +13,6 @@ O valor de q não será sempre exato, assim, a condição maior ou igual nos gar
 ## Solução em Português Estruturado
 
 ```
-algoritmo raizq;
 double raizq recebe double n
 	double i
 	
@@ -25,7 +24,7 @@ double raizq recebe double n
 	retorna 0.0
 
 fim
-...
+```
 
 ## Solução em Fluxograma
 empty
