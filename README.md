@@ -11,11 +11,11 @@ Sejam i, n e q números pertencentes aos reais. Existe um determinado i cujo qua
 O valor de q não será sempre exato, assim, a condição maior ou igual nos garante que a raíz será descoberta ao encontrar o próprio n (raíz exata) ou um número próximo à n (raíz aproximada).
 
 ## Solução em Português Estruturado
-inicio
-
+...
 double raizq recebe double n
 	double i
 	
+	inicio
 	para i = 1, enquanto i <= n, adicione 0.001 faça
 		Se i * i >= n então
 			retorna i
@@ -23,6 +23,7 @@ double raizq recebe double n
 	retorna 0.0
 
 fim
+...
 
 ## Solução em Fluxograma
 empty...
