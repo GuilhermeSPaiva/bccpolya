@@ -15,10 +15,10 @@ int main(void){
 }
 
 double raizq(double n){
-	int i;
+	double i;
 
-	for(i = 1; i <= n; i++){
-		if(i * i == n)
+	for(i = 1; i <= n; i+=0.001){
+		if(i * i >= n)
 			return i;
 	}
 
