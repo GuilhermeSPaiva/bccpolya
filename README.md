@@ -28,7 +28,7 @@ fim
 ...
 
 ## Solução em Fluxograma
-empty...
+empty
 
 ## Nome do Repositório ("polya")
 George Pólya foi um matemático húngaro e professor de matemática. Ele trabalhou em uma variedade de tópicos matemáticos, incluindo séries, teoria dos números, análise matemática, geometria, álgebra, combinatória e probabilidade. Pólya formulou as quatro etapas essenciais para a resolução de problemas:
