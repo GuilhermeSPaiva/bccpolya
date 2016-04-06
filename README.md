@@ -14,13 +14,13 @@ O valor de q não será sempre exato, assim, a condição maior ou igual nos gar
 
 * Solução em Português Estruturado:
 
+inicio
+
 double raizq recebe double n
 	double i
-
-	inicio
 	
 	para i = 1, enquanto i <= n, adicione 0.001 faça
-		Se i * i >= n emtão
+		Se i * i >= n então
 			retorna i
 
 	retorna 0.0
@@ -35,7 +35,7 @@ empty...
 
 George Pólya foi um matemático húngaro e professor de matemática. Ele trabalhou em uma variedade de tópicos matemáticos, incluindo séries, teoria dos números, análise matemática, geometria, álgebra, combinatória e probabilidade. Pólya formulou as quatro etapas essenciais para a resolução de problemas: 
 
-1) 1ª etapa - Compreender o problema;
-2) 2ª etapa - Traçar um plano;
-3) 3ª etapa - Colocar o plano em prática;
-4) 4ª etapa - Comprovar os resultados.
+1ª etapa - Compreender o problema;
+2ª etapa - Traçar um plano;
+3ª etapa - Colocar o plano em prática;
+4ª etapa - Comprovar os resultados.
