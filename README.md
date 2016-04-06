@@ -11,7 +11,9 @@ Sejam i, n e q números pertencentes aos reais. Existe um determinado i cujo qua
 O valor de q não será sempre exato, assim, a condição maior ou igual nos garante que a raíz será descoberta ao encontrar o próprio n (raíz exata) ou um número próximo à n (raíz aproximada).
 
 ## Solução em Português Estruturado
-...
+
+```
+algoritmo raizq;
 double raizq recebe double n
 	double i
 	
